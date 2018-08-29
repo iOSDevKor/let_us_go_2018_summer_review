@@ -1931,6 +1931,15 @@
 					background: #829bc9;
 				}
 
+			.icon.circle.fa-slack {
+				background: #CE365B;
+				color: #fff;
+			}
+
+				.icon.circle.fa-slack:hover {
+					background: #CE365B;
+				}
+
 			.icon.circle.fa-instagram {
 				background: #d65746;
 				color: #fff;
